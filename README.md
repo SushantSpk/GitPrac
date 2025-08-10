@@ -1,2 +1,2 @@
-# Git
+# GitPrac
 For Learning Git
